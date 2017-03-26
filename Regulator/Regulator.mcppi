@@ -1,0 +1,54 @@
+[DEVICE]
+Name=P16F877A
+Clock=8000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=..\Winding Machine\Code\Winding Machine.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=Regulator.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=..\Winding Machine\Code\Winding Machine.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=D:\MikroE\mikroC PRO for PIC\Defs\
+Path1=D:\MikroE\mikroC PRO for PIC\Uses\P16\
+Path2=E:\Podaci\Programiranje\Freelance\Regulator\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=4
+File0=Conversions
+File1=C_String
+File2=Lcd
+File3=Lcd_Constants
+[EXPANDED_NODES]
+Node0=Sources
+Count=1

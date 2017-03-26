@@ -1,0 +1,30 @@
+const code char empty[]   = "               ";
+const code char menu11[]  = "Number of turns";
+const code char menu12[]  = "     NEXT ";
+const code char menu22[]  = "    <NEXT>";
+const code char menu31[]  = "Wire width      ";
+const code char menu32[]  = "mm   NEXT ";
+const code char menu42[]  = "mm  <NEXT>";
+const code char menu51[]  = "Coil length     ";
+const code char menu71[]  = "Settings        ";
+const code char menu72[]  = "<SKIP>    ENTER ";
+const code char menu82[]  = " SKIP    <ENTER>";
+const code char menu91[]  = "Move carriage   ";
+const code char menu92[]  = "<<o  <    >   >>";
+const code char menu102[] = "<<   <o   >   >>";
+const code char menu112[] = "<<   <SAVE>   >>";
+const code char menu122[] = "<<   <   o>   >>";
+const code char menu132[] = "<<   <    >  o>>";
+const code char menu141[] = "Setup saved     ";
+const code char menu142[] = "<MENU>    START ";
+const code char menu152[] = " MENU    <START>";
+const code char menu161[] = "Progress        ";
+const code char menu171[] = "Progress paused ";
+const code char menu181[] = "Steps per turn  ";
+const code char menu201[] = "Steps per mm    ";
+const code char menu221[] = "Settings saved  ";
+const code char menu222[] = "<MENU> SETTINGS ";
+const code char menu232[] = " MENU <SETTINGS>";
+
+
+Napravi da currentPositionMove nije pravi, nego da je pravi currentPositionMove*turnToMoveRatio!!!

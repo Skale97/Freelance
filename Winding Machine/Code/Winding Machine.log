@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\Podaci\Programiranje\Freelance\Winding Machine\Code\Winding Machine.mcppi" -SP"D:\MikroE\mikroC PRO for PIC\Defs\" -SP"D:\MikroE\mikroC PRO for PIC\Uses\P16\" -SP"E:\Podaci\Programiranje\Freelance\Winding Machine\Code\" "Winding Machine.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_EEPROM.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Winding Machine.c
+diagnostics: 704	123	Compiled Successfully	Winding Machine.c
+diagnostics: 0	127	All files Compiled in 297 ms	 
+hint: 0	1144	Used RAM (bytes): 159 (45%)  Free RAM (bytes): 193 (55%)	Used RAM (bytes): 159 (45%)  Free RAM (bytes): 193 (55%)
+hint: 0	1144	Used ROM (program words): 7042 (86%)  Free ROM (program words): 1150 (14%)	Used ROM (program words): 7042 (86%)  Free ROM (program words): 1150 (14%)
+diagnostics: 0	125	Project Linked Successfully	Winding Machine.mcppi
+diagnostics: 0	128	Linked in 203 ms	 
+diagnostics: 0	129	Project 'Winding Machine.mcppi' completed: 547 ms	 
+diagnostics: 0	103	Finished successfully: 01 Mar 2017, 19:39:21	Winding Machine.mcppi

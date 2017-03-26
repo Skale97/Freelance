@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\Freelance\Pir\Pir.mcppi" -SP"D:\MikroE\mikroC PRO for PIC\Defs\" -SP"D:\MikroE\mikroC PRO for PIC\Uses\P16\" -SP"E:\Freelance\Pir\" "Pir.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	P16F877A.c
+diagnostics: 666	123	Compiled Successfully	P16F877A.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	Pir.c
+warning: 45	1509	Generated baud rate is 125000 bps (error = 8.51 percent)	Pir.c
+diagnostics: 49	123	Compiled Successfully	Pir.c
+diagnostics: 0	127	All files Compiled in 79 ms	 
+hint: 0	1144	Used RAM (bytes): 138 (39%)  Free RAM (bytes): 214 (61%)	Used RAM (bytes): 138 (39%)  Free RAM (bytes): 214 (61%)
+hint: 0	1144	Used ROM (program words): 383 (5%)  Free ROM (program words): 7809 (95%)	Used ROM (program words): 383 (5%)  Free ROM (program words): 7809 (95%)
+diagnostics: 0	125	Project Linked Successfully	Pir.mcppi
+diagnostics: 0	128	Linked in 46 ms	 
+diagnostics: 0	129	Project 'Pir.mcppi' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 01 avg 2016, 00.32.27	Pir.mcppi
